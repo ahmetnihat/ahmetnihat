@@ -1,6 +1,6 @@
-### Hi there 👋
+					# Hi there 👋
 
-![](https://github.com/ahmetnihat/ahmetnihat/blob/main/images/python_logo.jpg)
+![](https://github.com/ahmetnihat/ahmetnihat/blob/main/images/python_beginner.jpg)
 
 <!--
 **ahmetnihat/ahmetnihat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
