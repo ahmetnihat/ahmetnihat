@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![](https://www.trio.dev/hubfs/Imported_Blog_Media/python_logo.jpg)
-![](https://github.com/ahmetnihat/ahmetnihat/tree/main/images/python_logo.jpg)
+![](https://github.com/ahmetnihat/ahmetnihat/blob/main/images/python_logo.jpg)
 
 <!--
 **ahmetnihat/ahmetnihat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
