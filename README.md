@@ -1,4 +1,4 @@
-# 								Hi there 👋
+## -----------------------------------Hi there 👋-----------------------------------
 
 ![](https://github.com/ahmetnihat/ahmetnihat/blob/main/images/python_beginner.jpg)
 
