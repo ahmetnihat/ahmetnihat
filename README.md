@@ -5,6 +5,8 @@
 
 ![](https://github.com/ahmetnihat/ahmetnihat/blob/main/images/python_beginner.jpg)   [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmetnihat&theme=vue)](https://github.com/ahmetnihat) 
 
+***-Note- Photos (profile picture and read me): The journey of a teenager who discovered Python from primitiveness to advanced technology.***
+
 ## 🚀 Skills
 
 <table><tr><td valign="top" width="33%">
