@@ -9,7 +9,7 @@
 ### ![](https://github.com/ahmetnihat/ahmetnihat/blob/main/images/python_logo.jpg) --- Ahmet Nihat Ekici --- ![](https://github.com/ahmetnihat/ahmetnihat/blob/main/images/python_logo.jpg)
 
 
-I'm a self-developed person in robotics, computer vision and artificial intelligence.
+#### :point_right: I'm a self-developed person in robotics, computer vision and artificial intelligence. :point_left:
 
 ![](https://github.com/ahmetnihat/ahmetnihat/blob/main/images/python_beginner.jpg)
 
