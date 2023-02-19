@@ -16,16 +16,16 @@
 ![C++](https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
   
 #### Frameworks & Libraries
-![OpenCV](https://img.shields.io/badge/opencv-ffffff.svg?style=for-the-badge&logo=opencv&logoColor=red)
 ![Keras](https://img.shields.io/badge/Keras-ffffff.svg?style=for-the-badge&logo=Keras&logoColor=D00000)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=)
 ![NumPy](https://img.shields.io/badge/numpy-ffffff.svg?style=for-the-badge&logo=numpy&logoColor=013243)
+![OpenCV](https://img.shields.io/badge/opencv-ffffff.svg?style=for-the-badge&logo=opencv&logoColor=red)
 ![Pandas](https://img.shields.io/badge/pandas-ffffff.svg?style=for-the-badge&logo=pandas&logoColor=150458)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ffffff.svg?style=for-the-badge&logo=PyTorch&logoColor=)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-ffffff.svg?style=for-the-badge&logo=scikit-learn&logoColor=)
 ![SciPy](https://img.shields.io/badge/SciPy-ffffff.svg?style=for-the-badge&logo=scipy&logoColor=)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ffffff.svg?style=for-the-badge&logo=TensorFlow&logoColor=)
 ![Selenium](https://img.shields.io/badge/Selenium-ffffff.svg?style=for-the-badge&logo=Selenium&logoColor=)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ffffff.svg?style=for-the-badge&logo=TensorFlow&logoColor=)
   
 </td><td valign="top" width="33%">
 
