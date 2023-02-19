@@ -14,15 +14,6 @@
 
 ![Python](https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python&logoColor=3670A0)
 ![C++](https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-
-#### Databases  
-![MySQL](https://img.shields.io/badge/mysql-ffffff.svg?style=for-the-badge&logo=mysql&logoColor=00f)
-![SQLite](https://img.shields.io/badge/sqlite-ffffff.svg?style=for-the-badge&logo=sqlite&logoColor=07405e)  
-
-#### Developer
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-ffffff?style=for-the-badge&logo=HackerRank&logoColor=2EC866)](https://www.hackerrank.com/ahmetnihat11)
-
-</td><td valign="top" width="33%">
   
 #### Frameworks & Libraries
 
@@ -47,6 +38,20 @@
 ![Spyder IDE](https://img.shields.io/badge/Spyder-ffffff.svg?style=for-the-badge&logo=spyder-ide&logoColor=FF0000)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-ffffff.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)  
 
+ </td><td valign="top" width="33%">
+
+#### Databases  
+![MySQL](https://img.shields.io/badge/mysql-ffffff.svg?style=for-the-badge&logo=mysql&logoColor=00f)
+![SQLite](https://img.shields.io/badge/sqlite-ffffff.svg?style=for-the-badge&logo=sqlite&logoColor=07405e)  
+
+#### Developer
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-ffffff?style=for-the-badge&logo=HackerRank&logoColor=2EC866)](https://www.hackerrank.com/ahmetnihat11)
+
+#### Single Board Computer
+
+![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-ffffff?style=for-the-badge&logo=nvidia&logoColor=76B900)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-ffffff?style=for-the-badge&logo=raspberry-pi&logoColor=A22846)
+  
 </td></tr></table>  
 
 [![Commits](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmetnihat&theme=github_dark)](https://github.com/ahmetnihat)
