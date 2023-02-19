@@ -48,10 +48,7 @@
 
 </td></tr></table>  
 
-[![Commits](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmetnihat&theme=github_dark)](https://github.com/ahmetnihat)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmetnihat&theme=dark&date_format=j%20M%5B%20Y%5D&background=0D1117)](https://git.io/streak-stats)<br>
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmetnihat&theme=github_dark)](https://github.com/ahmetnihat) 
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmetnihat&theme=github_dark)](https://github.com/ahmetnihat)
+
 
 <!--
 ![PyCharm](https://img.shields.io/badge/pycharm-ffffff.svg?style=for-the-badge&logo=pycharm&logoColor=000000&labelColor=green)
