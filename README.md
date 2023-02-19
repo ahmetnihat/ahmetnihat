@@ -11,12 +11,10 @@
 <table><tr><td valign="top" width="33%">
   
 #### Language
-
 ![Python](https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python&logoColor=3670A0)
 ![C++](https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
   
 #### Frameworks & Libraries
-
 ![OpenCV](https://img.shields.io/badge/opencv-ffffff.svg?style=for-the-badge&logo=opencv&logoColor=red)
 ![Keras](https://img.shields.io/badge/Keras-ffffff.svg?style=for-the-badge&logo=Keras&logoColor=D00000)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=)
@@ -31,26 +29,25 @@
 </td><td valign="top" width="33%">
 
 #### IDE & Editors & Platforms
-
 ![Google Colab](https://img.shields.io/badge/Google_Colab-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=#F9AB00)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter_notebook-ffffff.svg?style=for-the-badge&logo=jupyter&logoColor=)
 ![PyCharm](https://img.shields.io/badge/pycharm-ffffff.svg?style=for-the-badge&logo=pycharm&logoColor=000000)
 ![Spyder IDE](https://img.shields.io/badge/Spyder-ffffff.svg?style=for-the-badge&logo=spyder-ide&logoColor=FF0000)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-ffffff.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)  
-
- </td><td valign="top" width="33%">
-
+  
 #### Databases  
 ![MySQL](https://img.shields.io/badge/mysql-ffffff.svg?style=for-the-badge&logo=mysql&logoColor=00f)
 ![SQLite](https://img.shields.io/badge/sqlite-ffffff.svg?style=for-the-badge&logo=sqlite&logoColor=07405e)  
 
-#### Developer
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-ffffff?style=for-the-badge&logo=HackerRank&logoColor=2EC866)](https://www.hackerrank.com/ahmetnihat11)
+ </td><td valign="top" width="33%">
 
-#### Single Board Computer
-
+#### Electronic
+![Arduino](https://img.shields.io/badge/Arduino-ffffff?style=for-the-badge&logo=Arduino&logoColor=#00979D)
 ![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-ffffff?style=for-the-badge&logo=nvidia&logoColor=76B900)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-ffffff?style=for-the-badge&logo=raspberry-pi&logoColor=A22846)
+
+#### Developer
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-ffffff?style=for-the-badge&logo=HackerRank&logoColor=2EC866)](https://www.hackerrank.com/ahmetnihat11)
   
 </td></tr></table>  
 
