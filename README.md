@@ -52,7 +52,7 @@
 ![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-ffffff?style=for-the-badge&logo=nvidia&logoColor=76B900)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-ffffff?style=for-the-badge&logo=raspberry-pi&logoColor=A22846)
 
-#### Developer
+#### Developer & Challenge
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-ffffff?style=for-the-badge&logo=HackerRank&logoColor=2EC866)](https://www.hackerrank.com/ahmetnihatekici)
 [![Kaggle](https://img.shields.io/badge/-kaggle-ffffff?style=for-the-badge&logo=kaggle&logoColor=)](https://kaggle.com/ahmetnihatekici)
   
