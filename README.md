@@ -54,6 +54,7 @@
 
 #### Developer
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-ffffff?style=for-the-badge&logo=HackerRank&logoColor=2EC866)](https://www.hackerrank.com/ahmetnihatekici)
+[![Kaggle](https://img.shields.io/badge/-kaggle-ffffff?style=for-the-badge&logo=kaggle&logoColor=)](https://kaggle.com/ahmetnihatekici)
   
 </td></tr></table>  
 
