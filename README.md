@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ahmetnihatekici-ffffff?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ahmetnihatekici/)](https://www.linkedin.com/in/ahmetnihatekici/)
 [![Instagram Badge](https://img.shields.io/badge/-ahmetnihatekici-ffffff?style=flat&logo=instagram&logoColor=&link=https://www.instagram.com/ahmetnihatekici/)](https://www.instagram.com/ahmetnihatekici/)
 [![Kaggle Badge](https://img.shields.io/badge/ahmetnihatekici-ffffff?style=flat&labelColor=ffffff&logo=kaggle&logoColor=&link=https://kaggle.com/ahmetnihatekici)](https://kaggle.com/ahmetnihatekici)
-![Hackerrank Badge](https://img.shields.io/badge/-ahmetnihatekici-ffffff?style=flat&logo=HackerRank&logoColor=2EC866&link=https://www.hackerrank.com/ahmetnihatekici)
+[![Hackerrank Badge](https://img.shields.io/badge/-ahmetnihatekici-ffffff?style=flat&logo=HackerRank&logoColor=2EC866)](https://www.hackerrank.com/ahmetnihatekici)
 
 ![](https://github.com/ahmetnihat/ahmetnihat/blob/main/images/python_beginner.jpg)   [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmetnihat&theme=vue)](https://github.com/ahmetnihat) 
 
