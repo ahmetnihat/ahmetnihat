@@ -3,6 +3,10 @@
 
 #### :point_right: I'm a self-developed person in robotics, computer vision and artificial intelligence. :point_left:
 
+[![Linkedin Badge](https://img.shields.io/badge/-ahmetnihatekici-ffffff?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ahmetnihatekici/)](https://www.linkedin.com/in/ahmetnihatekici/)
+[![Instagram Badge](https://img.shields.io/badge/-ahmetnihatekici-ffffff?style=flat&logo=instagram&logoColor=&link=https://www.instagram.com/ahmetnihatekici/)](https://www.instagram.com/ahmetnihatekici/)
+[![Kaggle Badge](https://img.shields.io/badge/ahmetnihatekici-ffffff?style=flat&labelColor=ffffff&logo=kaggle&logoColor=&link=https://kaggle.com/ahmetnihatekici)](https://kaggle.com/ahmetnihatekici)
+
 ![](https://github.com/ahmetnihat/ahmetnihat/blob/main/images/python_beginner.jpg)   [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmetnihat&theme=vue)](https://github.com/ahmetnihat) 
 
 ***-Note- Photos (profile picture and read me): The journey of a teenager who discovered Python from primitiveness to advanced technology.***
