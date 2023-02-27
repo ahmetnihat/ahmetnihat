@@ -12,8 +12,7 @@
 
 ***-Note- Photos (profile picture and read me): The journey of a teenager who discovered Python from primitiveness to advanced technology.***
 
-
-#### [Certificates (Kaggle / Udemy / BTK Akademi)]("https://github.com/ahmetnihat/ahmetnihat/tree/main/certificates")
+#### :page_facing_up: [Certificates (Kaggle / Udemy / BTK Akademi)]("https://github.com/ahmetnihat/ahmetnihat/tree/main/certificates") :page_facing_up:
 ![]()
 <img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/Kaggle/Intro%20to%20Machine%20Learning.png"  width="8%">
 <img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/Udemy/A-Z%20%20Raspberry%20Pi%20ile%200'dan%20ileri%20seviyeye%20(Python%2CJava).jpg"  width="8%">
@@ -27,6 +26,7 @@
 <img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/BTK%20Akademi/Temel%20Elektronik%20ve%20Roboti%C4%9Fe%20Giri%C5%9F.jpg"  width="8%">
 <img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/BTK%20Akademi/Veri%20Bilimi%20%C4%B0%C3%A7in%20Python%20ve%20Tensorflow.jpg"  width="8%">
 
+***-Note- Click on the certificate to check the certificates.***
 
 ## 🚀 Skills
 
