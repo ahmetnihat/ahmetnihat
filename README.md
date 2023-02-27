@@ -12,9 +12,8 @@
 
 ***-Note- Photos (profile picture and read me): The journey of a teenager who discovered Python from primitiveness to advanced technology.***
 
-#### [Certificates (Kaggle / Udemy / BTK Akademi)]("https://github.com/ahmetnihat/ahmetnihat/tree/main/certificates")
 
-#### <text src="https://github.com/ahmetnihat/ahmetnihat/tree/main/certificates"> Certificates (Kaggle / Udemy / BTK Akademi)
+#### [Certificates (Kaggle / Udemy / BTK Akademi)]("https://github.com/ahmetnihat/ahmetnihat/tree/main/certificates")
 ![]()
 <img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/Kaggle/Intro%20to%20Machine%20Learning.png"  width="8%">
 <img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/Udemy/A-Z%20%20Raspberry%20Pi%20ile%200'dan%20ileri%20seviyeye%20(Python%2CJava).jpg"  width="8%">
