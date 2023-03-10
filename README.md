@@ -15,6 +15,7 @@
 #### :page_facing_up: [Certificates (Kaggle / Udemy / BTK Akademi)]("https://github.com/ahmetnihat/ahmetnihat/tree/main/certificates") :page_facing_up:
 ![]()
 <img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/Kaggle/Intro%20to%20Machine%20Learning.png"  width="8%">
+<img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/Kaggle/Intermediate%20Machine%20Learning.png"  width="8%">
 <img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/Udemy/A-Z%20%20Raspberry%20Pi%20ile%200'dan%20ileri%20seviyeye%20(Python%2CJava).jpg"  width="8%">
 <img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/Udemy/Bilgisayar%20G%C3%B6r%C3%BC%C5%9F%C3%BC%20ile%20Y%C3%BCz%20ve%20Nesne%20Tan%C4%B1ma%20R-CNN%2C%20SSD%2C%20GANs.jpg"  width="8%">
 <img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/Udemy/Derin%20%C3%96%C4%9Frenme%20ile%20G%C3%B6r%C3%BCnt%C3%BC%20%C4%B0%C5%9Fleme%20Python%20OpenCV%20Keras%20(G%C4%B0-2).jpg"  width="8%">
