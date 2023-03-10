@@ -5,6 +5,8 @@
 ## Kaggle
 ![]()
 <img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/Kaggle/Intro%20to%20Machine%20Learning.png"  width="30%">
+<img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/Kaggle/Intermediate%20Machine%20Learning.png"  width="30%">
+
 
 ## Udemy
 ![]()
