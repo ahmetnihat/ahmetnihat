@@ -8,6 +8,7 @@
 <img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/Kaggle/Intermediate%20Machine%20Learning.png"  width="30%">
 <img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/Kaggle/Intro%20to%20Deep%20Learning.png"  width="30%">
 <img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/Kaggle/Computer%20Vision.png"  width="30%">
+<img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/Kaggle/Machine%20Learning%20Explainability.png"  width="30%">
 
 
 
