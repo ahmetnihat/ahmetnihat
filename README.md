@@ -13,7 +13,7 @@
 ***-Note- Photos (profile picture and read me): The journey of a teenager who discovered Python from primitiveness to advanced technology.***
 
 
-### :page_facing_up: [Certificates (Kaggle / Udemy / BTK Akademi)]("https://github.com/ahmetnihat/ahmetnihat/tree/main/certificates") :page_facing_up:
+### :page_facing_up: [Certificates (Kaggle / Udemy / BTK Akademi / Miuul)]("https://github.com/ahmetnihat/ahmetnihat/tree/main/certificates") :page_facing_up:
 
 <!--
 <table><tr><td valign="top" width="33%">
@@ -63,6 +63,10 @@
 <img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/BTK%20Akademi/S%C4%B1f%C4%B1rdan%20%C4%B0leri%20Seviye%20Python%20Programlama.jpg"  width="8%">
 <img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/BTK%20Akademi/Temel%20Elektronik%20ve%20Roboti%C4%9Fe%20Giri%C5%9F.jpg"  width="8%">
 <img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/BTK%20Akademi/Veri%20Bilimi%20%C4%B0%C3%A7in%20Python%20ve%20Tensorflow.jpg"  width="8%">
+<img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/Miuul/Python%20Programming%20for%20Data%20Science.png"  width="8%">
+<img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/Miuul/Feature%20Engineering.png"  width="8%">
+<img src="https://github.com/ahmetnihat/ahmetnihat/blob/main/certificates/Miuul/Machine%20Learning.png"  width="8%">
+
 
 |:page_facing_up: Kaggle|:page_facing_up: Udemy|:page_facing_up: BTK Akademi|
 |---|---|---|
